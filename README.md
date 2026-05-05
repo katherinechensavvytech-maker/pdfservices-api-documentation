@@ -1,4 +1,5 @@
 # PDF Services API Documentation
+# This directory was a public repository clone developed by AWS and a college. We tried and found it is not that good.  5/4/2026 by Katherine
 
 ## How to develop
 
